@@ -19,5 +19,5 @@ Prometheus stands as a highly scalable open-source monitoring framework, specifi
 
 #### Prometheus Monitoring Setup on Kubernetes
 
-I assume that you have a kubernetes cluster up and running with kubectl setup on your workstation.
+Assume that you have a kubernetes cluster up and running with kubectl setup on your workstation.
 
